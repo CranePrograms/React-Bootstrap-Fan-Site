@@ -6,24 +6,25 @@ One should be aware that this fan websites topic is Final Fantasy 14 mostly due 
 
 # What works as of this moment
 
-The website has a function home page for the most part with a background, a coursel for some random pictures also featured below.
+The website has a functional home page for the most part with a background, a carousel for some random pictures also featured below.
 The Nav bar at the top correctly links to the pages for Home, Mahjong, and "His Shrine".
 In Mahjong there a few correctly sized sample "Tile" buttons for a feature I haven't built yet but this was mostly a test to learn some CSS.
-In "His Shrine" there is a button with a picture as it's representation that gives a different random encouraging sentiment each time. There's around 7 options though at the moment for sentances you may recieve, and they can randomly repeat but clicking the button will always bring up any sentence that wasn't the previous one.
+In "His Shrine" there is a button with a picture as it's representation that gives a different random encouraging sentiment each time. There's around 7 options though at the moment for sentences you may receive, and they can randomly repeat but clicking the button will always bring up any sentence that wasn't the previous one.
 
 # What doesn't work but looks like it should
 
 On the homepage there are a few cards I intend to link to pages/routes I haven't created yet. These might be subject to change if I think of a topic I would enjoy having more than what's there.
-The "Tile" buttons that don't do anything in the Mahjong page will eventually do something. I'm unsure exactly where I wanna take this feature but I was thinking something along the line of being able to "Make a Hand" out of Mahjong tiles.
+The "Tile" buttons that don't do anything in the Mahjong page will eventually do something. I'm unsure exactly where I want to take this feature but I was thinking something along the line of being able to "Make a Hand" out of Mahjong tiles.
 Technically the Navbar has a Dropdown menu on it. I haven't bothered deleting it yet because I'm not sure if I want to use it for something soon. It doesn't currently link anywhere though.
 
 # What am I looking at doing
 
-My primary goal is always going to be working on any features I think will help me learn the most the quickest. That spirit is part of why the website might feel sort of jumbled design wise. I do intend to go and clean things up a bit more but in my opinnion having something to look at now is better than nothing even if it's not exactly the cleanest looking. That being said a few items I project getting to semi soon:
+My primary goal is always going to be working on any features I think will help me learn the most the quickest. That spirit is part of why the website might feel sort of jumbled design wise. I do intend to go and clean things up a bit more but in my opinion having something to look at now is better than nothing even if it's not exactly the cleanest looking. That being said a few items I project getting to semi soon:
 -I want to make the button in "His Shrine" clearer it's a button.
 -I want to link The Great Serpent of Ronka card on the front page to an actual quiz which will be mostly a joke but serve to explore what building that might be like.
 -I want to figure out exactly what I plan to do with this dropdown menu
 -I want to finish the Mahjong section so that the user can at least build a hand even if there's no functional use beyond that at the moment.
+
 
 # Getting Started with Create React App
 
