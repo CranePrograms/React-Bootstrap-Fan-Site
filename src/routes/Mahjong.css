@@ -1,0 +1,41 @@
+.Mahjong-header {
+    background-color: #0050f1;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+.btn-custom {
+
+    width: 75px;
+    height: 100px;
+    background-color: rgb(72, 72, 248);
+    border-color: black;
+    border-radius: 20px;
+    
+
+  }
+
+.Mahjong-ButtonGroup {
+  
+    width: 50%;
+    height: 50%;
+
+}
+
+.Mahjong-Image {
+
+    width: 100%;
+}
+
+.Mahjong-button {
+
+    width: 100vh;
+    height: auto;
+
+}
+  

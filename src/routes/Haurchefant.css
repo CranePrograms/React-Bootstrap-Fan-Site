@@ -1,0 +1,25 @@
+.Haurchefant-body {
+
+    background-image: url("./../images/His_Shield.jpeg");
+}
+
+.Haurchefant-Image {
+
+    
+    width: auto;
+    height: 300px;
+
+}
+
+.Haurchefant-Button {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.text-center {
+    color: black
+}
+

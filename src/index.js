@@ -3,10 +3,21 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Mahjong from "./routes/Mahjong";
+import Haurchefant from "./routes/Haurchefant";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<App />} />
+        <Route path="home" element={<App />} />
+        <Route path="/mahjong" element={<Mahjong />} />
+        <Route path="/haurchefant" element={<Haurchefant />} />
+        
+      </Routes>
+    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );

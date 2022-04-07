@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background: url('https://img.finalfantasyxiv.com/lds/h/1/EPptkGFMvUVk1nm2TndbZGLiW0.jpg');
 }
 
 .App-logo {
@@ -23,6 +24,7 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
 
 .App-link {
   color: #61dafb;
