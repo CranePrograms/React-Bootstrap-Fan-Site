@@ -20,10 +20,10 @@ Technically the Navbar has a Dropdown menu on it. I haven't bothered deleting it
 # What am I looking at doing
 
 My primary goal is always going to be working on any features I think will help me learn the most the quickest. That spirit is part of why the website might feel sort of jumbled design wise. I do intend to go and clean things up a bit more but in my opinion having something to look at now is better than nothing even if it's not exactly the cleanest looking. That being said a few items I project getting to semi soon:
--I want to make the button in "His Shrine" clearer it's a button.
--I want to link The Great Serpent of Ronka card on the front page to an actual quiz which will be mostly a joke but serve to explore what building that might be like.
--I want to figure out exactly what I plan to do with this dropdown menu
--I want to finish the Mahjong section so that the user can at least build a hand even if there's no functional use beyond that at the moment.
+* I want to make the button in "His Shrine" clearer it's a button.
+* I want to link The Great Serpent of Ronka card on the front page to an actual quiz which will be mostly a joke but serve to explore what building that might be like.
+* I want to figure out exactly what I plan to do with this dropdown menu
+* I want to finish the Mahjong section so that the user can at least build a hand even if there's no functional use beyond that at the moment.
 
 
 # Getting Started with Create React App
