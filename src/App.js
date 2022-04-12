@@ -117,7 +117,7 @@ function Home() {
     <div>
       <main> 
        <h2>
-         CHECK OUT MY GLAMOURS GAMER
+         
        </h2>
       </main>
     </div>
@@ -130,7 +130,7 @@ function About() {
     <div>
       <main>
         <h2>
-          OH NOES UWU
+          
         </h2>
       </main>
     </div>
