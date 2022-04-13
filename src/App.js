@@ -39,7 +39,7 @@ function App() {
           </Row>
           <Row>
           <Card className="text-center bg-secondary text-white my-5 py-4">
-            <Card.Body>Please give me the wacky digits on the back.</Card.Body>
+            <Card.Body>This is sure gonna be a website.</Card.Body>
           </Card>
           </Row>
           <Row>

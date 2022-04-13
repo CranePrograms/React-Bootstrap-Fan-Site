@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Mahjong from "./routes/Mahjong";
 import Haurchefant from "./routes/Haurchefant";
+import FF14DB from "./routes/FF14DB";
 
 ReactDOM.render(
   <React.StrictMode>
@@ -15,6 +16,7 @@ ReactDOM.render(
         <Route path="home" element={<App />} />
         <Route path="/mahjong" element={<Mahjong />} />
         <Route path="/haurchefant" element={<Haurchefant />} />
+        <Route path="/FF14DB" element={<FF14DB />} / >
         
       </Routes>
     </BrowserRouter>
