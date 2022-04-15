@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Carousel from 'react-bootstrap/Carousel';
+import Card from 'react-bootstrap/Card';
 
 class TestCarousel extends Component {
 
@@ -41,8 +42,10 @@ class TestCarousel extends Component {
                 alt="First slide"
               />
               <Carousel.Caption>
-                <h5>First slide label</h5>
-                <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                <Card>
+                <h5>50 Easy Steps to Become an Omnicrafter</h5>
+                <p>Learn the tricks of the trade, and how to trick those you trade.</p>
+                </Card>
               </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -52,8 +55,10 @@ class TestCarousel extends Component {
                 alt="Second slide"
               />
               <Carousel.Caption>
-                <h5>Second slide label</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <Card>
+                <h5>Bask in the glory of Ronka!</h5>
+                <p>The Great Serpent is here, and they want to know if you're worthy!</p>
+                </Card>
               </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -63,8 +68,10 @@ class TestCarousel extends Component {
                 alt="Third slide"
               />
               <Carousel.Caption>
-                <h5>Third slide label</h5>
-                <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+              <Card>
+                <h5>Patch 6.1?!?</h5>
+                <p>Let us tell you how upset you should be about the things we don't like!</p>
+                </Card>
               </Carousel.Caption>
             </Carousel.Item>
           </Carousel>

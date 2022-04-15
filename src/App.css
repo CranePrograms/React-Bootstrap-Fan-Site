@@ -38,3 +38,43 @@
     transform: rotate(360deg);
   }
 }
+
+.Top-Card {
+
+  padding: 0;
+  margin-bottom: 6px;
+  color: blue;
+}
+
+.Top-Card-Text {
+  color: black;
+  text-align: center;
+}
+
+.Top-Card-Row {
+  padding: 12px;
+}
+
+.Left-Card {
+  width: 75%;
+
+}
+
+.Left-Card-Col {
+  padding: 0 auto;
+}
+
+.Middle-Card {
+  width: 75%;
+  margin: 0 auto;
+  
+}
+
+.Middle-Card-Col {
+  padding-left: 50%;
+}
+
+.Right-Card {
+  width: 75%;
+  margin-left: 25%;
+}

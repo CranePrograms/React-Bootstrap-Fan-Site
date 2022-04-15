@@ -31,20 +31,20 @@ function App() {
         <main>
         
         <Container>
-          <Row className ="px-4 my-5"> 
+          <Row className ="px-0 my-3"> 
             <Col>
               <TestCarousel />
             </Col>
             
           </Row>
-          <Row>
-          <Card className="text-center bg-secondary text-white my-5 py-4">
-            <Card.Body>This is sure gonna be a website.</Card.Body>
+          <Row className ="Top-Card-Row">
+          <Card className="Top-Card">
+            <Card.Body className="Top-Card-Text">Want to reach out to the devs? Send your hate mail(or job opportunities) to IanSullivanOTI@gmail.com</Card.Body>
           </Card>
           </Row>
           <Row>
-            <Col>
-            <Card style={{ width: '18rem' }}>
+            <Col className="Left-Card-Col">
+            <Card className="Left-Card">
               <Card.Img
               variant="top"
               src="https://www.gamersdecide.com/sites/default/files/styles/news_images/public/crafting_gear_intro_9.jpg"
@@ -59,7 +59,7 @@ function App() {
             </Card>
             </Col>
             <Col>
-            <Card style={{ width: '18rem' }}>
+            <Card className="Middle-Card">
               <Card.Img
               variant="top"
               src="https://external-preview.redd.it/ApjXXkN2N_D9OSJlQ64twBp7kslASa9yVJBHmWiBw5A.jpg?auto=webp&s=ad97ad6c9dc1a3f67ee797ea19a3e8fc9b12a967"
@@ -74,22 +74,22 @@ function App() {
             </Card>
             </Col>
             <Col>
-            <Card style={{ width: '18rem' }}>
+            <Card className="Right-Card">
               <Card.Img
               variant="top"
               src="https://cdn.akamai.steamstatic.com/steam/apps/1592500/capsule_616x353.jpg?t=1621111778"
                 />
               <Card.Body>
-                <Card.Title>don't leave me behind</Card.Title>
+                <Card.Title>A Hot New Patch</Card.Title>
                 <Card.Text>
-                  please. i'm not caught up yet.
+                  We're gonna keep playing but you'll definitely wanna cancel your subscription after these news!
                   <Image
                   src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/loudly-crying-face.png"
                   height="20"
                   width="20"
                   ></Image>
                 </Card.Text>
-                <Button variant="primary">Boost Me</Button>
+                <Button variant="primary">Take the Bait!</Button>
               </Card.Body>
             </Card>
             </Col>
